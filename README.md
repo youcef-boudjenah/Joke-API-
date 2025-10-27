@@ -48,11 +48,4 @@ Then open your browser and visit:
 **Youcef Boudjenah**
 💼 [GitHub Profile](https://github.com/youcef-boudjenah)
 
----
 
-```
-
----
-
-Would you like me to make it **more professional** (with emojis, badges, and usage examples), or keep it **simple like this**?
-```
